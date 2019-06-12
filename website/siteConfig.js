@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site', // Title for your website.
-  tagline: 'A website for testing',
+  title: 'Lacafetalab', // Title for your website.
+  tagline: 'Estandares para el desarrollo de software',
   url: 'https://lacafetalab.github.io', // Your website URL
   baseUrl: '/lacefetalab-doc/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'ddd', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
@@ -73,7 +73,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} LaCafetaLab`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
